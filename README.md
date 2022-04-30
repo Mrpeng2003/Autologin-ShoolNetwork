@@ -2,7 +2,7 @@
 自动登录drcom校园网
 
 ---
-配合Windows自带计划人物的可以进行与drcom合作的校园网自动登录</br>
+配合Windows自带计划任务可以进行与drcom合作的校园网自动登录</br>
 文档：[链接](https://blog.crazypeng.xyz/archives/13.html)
 
 ---
